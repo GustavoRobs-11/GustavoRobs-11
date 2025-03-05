@@ -24,7 +24,7 @@
 
 📫 Como entrar em contato comigo:<br/>
 
-<img align="center" alt="canva" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />     :  www.linkedin.com/in/gustavo-robson1404
+<img align="center" alt="canva" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />     :  https://www.linkedin.com/in/gustavo-rss/
 
 <img align="center" alt="canva" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />     : gustavoo.r1992@gmail.com 
 
